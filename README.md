@@ -1,4 +1,5 @@
 # Complete-NumPy 🚀
+![image](https://github.com/user-attachments/assets/091fd8c1-73ae-4e28-a72a-72fb5575af38)
 
 A comprehensive guide to mastering **NumPy** with practical examples and applications in machine learning. Perfect for learners and developers looking to deepen their knowledge of numerical computations in Python.
 
